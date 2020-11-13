@@ -1,0 +1,6 @@
+name: D_Token
+author: yDioguin_
+version: 1.0
+main: pt.dioguin.token.Main
+commands:
+  token:
