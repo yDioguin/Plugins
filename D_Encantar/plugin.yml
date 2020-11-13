@@ -1,0 +1,6 @@
+name: D_Encantar
+author: yDioguin_
+version: 1.0
+main: pt.dioguin.encantar
+commands:
+  encantar:

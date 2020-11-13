@@ -1,0 +1,19 @@
+SemPerm: '&cVocê não tem permissão para executar este comando.'
+SemXP: '&cVocê não tem XP o suficiente para encantar este item.'
+EncantarSucesso: '&aVocê encantou o item com sucesso!'
+
+Encantar:
+  Inventario:
+    Size: 3
+    Nome: '&cEncantar'
+  Item:
+    ID: 276
+    Nome: '&cSharpness'
+    Lore:
+      - '&7Clique aqui e'
+      - '&7Encante o seu item'
+      - '&7com sharpness!'
+    Slot: 10
+    XP: 10
+    Encantamento: 'DAMAGE_ALL'
+    EncantamentoNivel: 5
