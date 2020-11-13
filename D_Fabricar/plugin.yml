@@ -1,0 +1,5 @@
+name: D_Fabricar
+main: pt.dioguin.fabricar.Main
+version: 1.0
+commands:
+  fabricar:
